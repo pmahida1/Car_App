@@ -1,0 +1,12 @@
+What is the final app idea and functionality?
+My final app idea was making car app that would lists all the car lists. All the cars will have car details and it would also have functionality where user can add that specific car
+into their favourite car lists. 
+
+What is the used web services?
+Web services are XML-based information exchange systems that use the Internet for direct application-to-application interaction. These systems can include programs, objects, 
+messages, or documents. A web service is a collection of open protocols and standards used for exchanging data between applications or systems.
+
+What is the data that is stored locally in SQLite DB?
+In this Application, I stored the Cars data manually in the SQLite DB model named "CarModel" and on the Home Page we show all the Data that store in the Model named "CarModel".
+and for the Fav Page, we created the Model Named "FavCarsModel" we save all the Favorite cars in this model using SQLite DB and after that, we show the Favorite cars on the page 
+Named "Favorite Cars". Fav Page = Favorite.
