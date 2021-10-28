@@ -1,0 +1,66 @@
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.deps.json
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.dll
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\ref\Car_App.dll
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.pdb
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.AssemblyInfo.cs
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.dll
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\ref\Car_App.dll
+C:\Users\abdul\source\repos\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.pdb
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.deps.json
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.dll
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\ref\Car_App.dll
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.pdb
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.csproj.AssemblyReference.cache
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.AssemblyInfoInputs.cache
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.AssemblyInfo.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.csproj.CoreCompileInputs.cache
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.dll
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\ref\Car_App.dll
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.pdb
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\CarDetails.xaml.g.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\FavCars.xaml.g.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.deps.json
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.dll
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\ref\Car_App.dll
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.pdb
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.csproj.AssemblyReference.cache
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\CarDetails.xaml.g.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\FavCars.xaml.g.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.AssemblyInfoInputs.cache
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.AssemblyInfo.cs
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.csproj.CoreCompileInputs.cache
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.dll
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\ref\Car_App.dll
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.pdb
+C:\Users\hafiz\Downloads\Car_App\Car_App\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.deps.json
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.dll
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\ref\Car_App.dll
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\bin\Debug\netstandard2.0\Car_App.pdb
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\CarDetails.xaml.g.cs
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\FavCars.xaml.g.cs
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.AssemblyInfoInputs.cache
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.AssemblyInfo.cs
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.csproj.CoreCompileInputs.cache
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.dll
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\ref\Car_App.dll
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.pdb
+C:\Users\mahid\OneDrive\Documents\Fall 2021\DPS526\Car_App\Car_App\Car_App\obj\Debug\netstandard2.0\Car_App.csproj.AssemblyReference.cache

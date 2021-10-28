@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Car_App.FavCars">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label Text="Favorite Cars List" FontSize="Medium" TextColor="Maroon" HorizontalOptions="Center" Margin="0,20,0,10"/>
+            <ListView HasUnevenRows="True" SeparatorVisibility="None" x:Name="CarsListView" Margin="10,0,10,0" SeparatorColor="White">
+                <ListView.ItemTemplate>
+                    <DataTemplate >
+                        <ViewCell>
+                            <Grid Padding="10"
+                              RowSpacing="10" ColumnSpacing="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image HeightRequest="68" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                               Aspect="AspectFill"
+                               Grid.RowSpan="2" Source="{Binding Image}"/>
+                                <Label Grid.Column="1" Grid.Row="0" VerticalOptions="End" Text="{Binding CarName}"/>
+                                <Label Grid.Column="1" Grid.Row="1" VerticalOptions="Start" Text="{Binding CarYear}"/>
+
+                            </Grid>
+
+                        </ViewCell>
+
+                        <!--<TextCell />-->
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

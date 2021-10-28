@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Car_App.CarDetails">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center">
+            <Label Text="Car Details" FontSize="Medium" TextColor="Maroon" HorizontalOptions="Center" Margin="0,20,0,10"/>
+
+            <StackLayout>
+                <Image x:Name="carimage" HeightRequest="100" WidthRequest="100"/>
+                <Grid Padding="10" RowSpacing="10" ColumnSpacing="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="2*"/>
+                       
+                    </Grid.RowDefinitions>
+                    
+                    <Label Grid.Row="0" Grid.ColumnSpan="2" x:Name="carname" HorizontalTextAlignment="Start"/>
+                    <Button x:Name="FavBtn" Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="2" FontSize="Small" Clicked="FavOnClick" WidthRequest="5" HeightRequest="40"/>
+                    <Label Grid.Row="1" Grid.Column="0" Text="Year" FontAttributes="Bold" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="1" Grid.Column="1" x:Name="caryear" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="1" Grid.Column="2" Text="Color" FontAttributes="Bold" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="1" Grid.Column="3" x:Name="carcolor" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="2" Grid.Column="0" Text="Driven" FontAttributes="Bold" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="2" Grid.Column="1" x:Name="cardriven" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="2" Grid.Column="2" Text="Average" FontAttributes="Bold" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="2" Grid.Column="3" x:Name="caraverage" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="3" Grid.Column="0" Text="Fuel Mode" FontAttributes="Bold" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="3" Grid.Column="1" x:Name="carfuelmode" HorizontalTextAlignment="Start"/>
+                    <Label Grid.Row="5" Grid.ColumnSpan="4" Grid.RowSpan="7"  x:Name="cardetail" HorizontalTextAlignment="Start"/>
+                </Grid>
+                
+            </StackLayout>
+            
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
